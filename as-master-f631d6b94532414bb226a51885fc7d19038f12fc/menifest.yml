@@ -1,0 +1,6 @@
+applications:
+- name: blue-cloud-mirror-Navneet4397
+  host: blue-cloud-mirror-Navneet4397
+  memory: 256M
+  instances: 1
+  buildpack: https://github.com/cloudfoundry/staticfile-buildpack
